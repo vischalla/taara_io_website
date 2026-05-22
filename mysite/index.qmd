@@ -3,6 +3,12 @@ title: "Data + Strategy for Progressive Movements"
 ---
 
 ::: {.hero}
+![](resources/hero-illustration.svg){.hero-illustration .slow-pulse}
+
+::: {.brand-tag}
+Taara
+:::
+
 ::: {.subtitle}
 We help advocacy organizations turn data chaos into campaign-ready infrastructure — so you can focus on what matters: organizing, mobilizing, and winning.
 :::
@@ -120,7 +126,7 @@ We build your team's confidence and capability with data.
 ::: {.cta-section}
 ## Ready to get your data working for you?
 
-We'd love to learn about your organization and explore how we can help.
+We work on fixed-scope project engagements with clear deliverables and timelines. Let's talk about what your organization needs.
 
 [Get in Touch](contactus.qmd){.btn-primary-hero}
 :::

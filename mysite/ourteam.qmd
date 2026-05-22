@@ -3,11 +3,80 @@ title: "About"
 ---
 
 ::: {.profile-card}
-![](/resources/viswa_profile.jpeg){width=200}
+![](/resources/viswa_profile.jpeg){width=400}
 
 ::: {.bio}
-Outside of work, I'm pretty much always chasing the next great film, planning my next trip, or editing photos from the last one. Cinema has been a lifelong passion — there's something about the way a good story is told visually that I find endlessly fascinating. That same curiosity about the world is what drives me to travel as much as I can, and I rarely go anywhere without a camera. Photography has become my way of slowing down and really paying attention to a place.
+Viswa Challa has spent nine years at the intersection of data, technology, and progressive organizing. As Data and Analytics Manager at **People's Action**, he built the data infrastructure that powered a 4 million dial program — reducing cost per dial, sharpening audience segmentation, and making operational scale visible through hard numbers. He previously served as Data Director for the Minnesota office of **America Votes** and as Operations Director for **Neighbors for Ilhan Omar**. He also developed a framework for how organizations can implement Measuring Power with real technical depth. He holds a background in computer science.
 
-When I'm not doing any of that, I'm usually deep in some personal tech project at home — whether that's tinkering with a self-hosted server setup or finding a better way to organize my digital life. It's the same itch that drew me to systems work professionally, just pointed in a different direction.
+Outside of work, he's usually chasing the next great film, planning a trip, or editing photos from the last one. Cinema has been a lifelong passion, and photography his way of slowing down and paying attention. When not doing any of that, he's deep in some personal tech project at home — tinkering with a self-hosted server or finding a better way to organize his digital life. It's the same itch that drew him to systems work professionally, just pointed in a different direction.
+:::
+:::
+
+---
+
+::: {.work-examples}
+## Selected Work
+
+::: {.outcome-list}
+
+::: {.outcome-item}
+**4 Million Dial Program — People's Action**  
+Built the end-to-end data infrastructure and analytics flows from scratch. Reduced cost per dial, cut time to understand program shifts, and refined audience segmentation — enabling leadership to prioritize decisions backed by hard numbers.
+:::
+
+::: {.outcome-item}
+**Measuring Power Framework**  
+Authored a practical framework for how progressive organizations can implement Measuring Power, with real technical specifications and operational detail — not just theory.
+:::
+
+:::
+:::
+
+---
+
+::: {.tech-expertise}
+## Tech We Work With
+
+::: {.tech-grid}
+
+::: {.tech-group}
+### Platforms & CRMs
+NGP VAN, EveryAction, ActionNetwork, ActionBuilder, ActionKit, Mobilize, CallHub, ScaleToWin
+:::
+
+::: {.tech-group}
+### Data & Databases
+SQL — BigQuery, Redshift, Snowflake, Azure
+:::
+
+::: {.tech-group}
+### Automation
+Zapier, n8n
+:::
+
+:::
+:::
+
+---
+
+::: {.collaborators}
+## Collaborators
+
+::: {.collab-list}
+
+::: {.collab-item}
+### Sandeep Erra
+::: {.role}
+Data Analyst
+:::
+:::
+
+::: {.collab-item}
+### Sindu Challa
+::: {.role}
+Project Manager
+:::
+:::
+
 :::
 :::

@@ -1,80 +1,126 @@
 ---
-title: "Do you lead an organization striving to mobilize communities and drive meaningful action on important causes?"
+title: "Data + Strategy for Progressive Movements"
 ---
 
-We help dedicated teams like yours transform their vision into powerful, sustainable impact. Leveraging a unique blend of data expertise, a deep understanding of effective community engagement, and a strong background in engineering robust systems, we specialize in crafting intelligent solutions. From optimizing your information flows to designing resilient operational frameworks, We're here to ensure your efforts are amplified and your goals are within reach. Let's build the infrastructure for lasting change, together.
+::: {.hero}
+::: {.subtitle}
+We help advocacy organizations turn data chaos into campaign-ready infrastructure — so you can focus on what matters: organizing, mobilizing, and winning.
+:::
 
-<!-- 
-https://niniaazzopardi.com/
+::: {.cta-group}
+[Our Services](#our-services){.btn-primary-hero}
+[Get in Touch](contactus.qmd){.btn-outline-hero}
+:::
+:::
 
-I am an independent, hands-on, marketing consultant and digital marketing strategist, based in Malta. Through the years I have worked for some of the largest global brands as a consultant, client-side, and within media agencies.
+---
 
-My goal is to be an extension of your team, challenge assumptions, bring you the knowledge needed to achieve your goals, and build a digital marketing strategy that's right for your business. -->
+## Our Services {#our-services}
 
-<!-- At Bows & Arrows Inc. we aim to provide a service that:  
-Understand respectful and proper protocol
-Adheres to a professional set of values in dealing with any and all organizations, companies and governments
-Benefits the Dene community and its members -->
+::: {.services-grid}
 
-# Our Services
-<!-- What can we provde -->
+::: {.service-card}
+::: {.icon}
+🧭
+:::
+### Strategy & Planning
+We help you figure out where to go and how to get there.
 
-<!-- step down to just four or five categores -->
+- Data & tech consulting
+- AI policy buildout & implementation
+- Vendor evaluation & selection
+- Change management support
+:::
 
-<!-- 
-research and discovery
-project management
-consultancy 
+::: {.service-card}
+::: {.icon}
+⚙️
+:::
+### Tools & Systems
+We set up and configure the platforms your team runs on.
 
-just add brief bullet points on what that entails
--->
+- CRM/software implementation & configuration
+- Workflow automation
+- Reporting & dashboard development
+- Data integration & ETL development
+:::
 
-* Project Management
-* Consulting
-* Data and Tech Trainings & Workshops
-* Data Architecture and Modeling
-* AI Policy Buildout and Implementation
-* CRM/Software Implementation and Configuration
-* Data Integration and ETL Development
-* Reporting and Dashboard Development
-* Data Quality Assessment and Remediation
-* Workflow Automation
-* Vendor Evaluation and Selection
-* Change Management Support
-* Data Cleanup and Formatting
+::: {.service-card}
+::: {.icon}
+🗄️
+:::
+### Data Infrastructure
+We make sure your data is clean, reliable, and ready.
 
-# Our Previous Partners
+- Data architecture & modeling
+- Data quality assessment & remediation
+- Data cleanup & formatting
+:::
 
-* The Movement Cooperative
-* People's Action
-* Colorado People's Action
-* ONE People's Campaign
-* The People's Lobby
-* Maine People's Alliance
-* Neighbor to Neighbor Action Fund
-* Michigan United
-* TakeAction Minnesota
-* Citizen Action New York
-* Voices of Community Activists & Leaders (VOCAL) Action
-* Firelands WA
-* Citizen Action of Wisconsin
-* America Votes
-* MN Voices
-* Minnesota Youth Collective
-* Ilhan for Congress
+::: {.service-card}
+::: {.icon}
+📚
+:::
+### Training & Enablement
+We build your team's confidence and capability with data.
 
-# Tech We Are Experts In
+- Data & tech trainings & workshops
+- Project management
+- Hands-on coaching
+:::
 
-* NGP VAN
-* EveryAction
-* ActionNetwork
-* ActionBuilder
-* ActionKit
-* Mobilize
-* CallHub
-* ScaleToWin
-* SQL Databases: BigQuery, Redshift, Snowflake, Azure
-* Automation: Zapier, n8n
+:::
 
+---
 
-<!-- Build out footer, connection to LinkedIn-->
+## Trusted By {#our-partners}
+
+::: {.partners-carousel}
+::: {.partners-track}
+![](resources/logos/tmc.png)
+![](resources/logos/peoples_action.png)
+![](resources/logos/colorado_peoples_action.webp)
+![](resources/logos/one_peoples_campaign.png)
+![](resources/logos/the_peoples_lobby.webp)
+![](resources/logos/main_peoples_alliance.png)
+![](resources/logos/neighbor_to_neighbor.png)
+![](resources/logos/michigan_united.jpeg)
+![](resources/logos/take_action_minnesota.webp)
+![](resources/logos/citizen_action_of_new_york.png)
+![](resources/logos/vocal_ny.png)
+![](resources/logos/firelands_wa.webp)
+![](resources/logos/citizen_action_of_wisconsin.webp)
+![](resources/logos/america_votes.png)
+![](resources/logos/mn_voice.webp)
+![](resources/logos/mn_youth_collective.webp)
+![](resources/logos/ilhan_for_congress.avif)
+<!-- Duplicate for seamless loop -->
+![](resources/logos/tmc.png)
+![](resources/logos/peoples_action.png)
+![](resources/logos/colorado_peoples_action.webp)
+![](resources/logos/one_peoples_campaign.png)
+![](resources/logos/the_peoples_lobby.webp)
+![](resources/logos/main_peoples_alliance.png)
+![](resources/logos/neighbor_to_neighbor.png)
+![](resources/logos/michigan_united.jpeg)
+![](resources/logos/take_action_minnesota.webp)
+![](resources/logos/citizen_action_of_new_york.png)
+![](resources/logos/vocal_ny.png)
+![](resources/logos/firelands_wa.webp)
+![](resources/logos/citizen_action_of_wisconsin.webp)
+![](resources/logos/america_votes.png)
+![](resources/logos/mn_voice.webp)
+![](resources/logos/mn_youth_collective.webp)
+![](resources/logos/ilhan_for_congress.avif)
+:::
+:::
+
+---
+
+::: {.cta-section}
+## Ready to get your data working for you?
+
+We'd love to learn about your organization and explore how we can help.
+
+[Get in Touch](contactus.qmd){.btn-primary-hero}
+:::

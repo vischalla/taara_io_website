@@ -1,24 +1,13 @@
 ---
-title: "Our Team"
+title: "About"
 ---
 
-## Viswa Challa
+::: {.profile-card}
+![](/resources/viswa_profile.jpeg){width=200}
 
-<table>
-	<tr style="vertical-align: top;">
-		<td style="width:25%; padding-right:10px">
-			![](/resources/viswa_profile.jpeg){fig-align="left"}
-		</td>
-		<td>
-			Outside of work, I'm pretty much always chasing the next great film, planning my next trip, or editing photos from the last one. Cinema has been a lifelong passion — there's something about the way a good story is told visually that I find endlessly fascinating. That same curiosity about the world is what drives me to travel as much as I can, and I rarely go anywhere without a camera. Photography has become my way of slowing down and really paying attention to a place.
+::: {.bio}
+Outside of work, I'm pretty much always chasing the next great film, planning my next trip, or editing photos from the last one. Cinema has been a lifelong passion — there's something about the way a good story is told visually that I find endlessly fascinating. That same curiosity about the world is what drives me to travel as much as I can, and I rarely go anywhere without a camera. Photography has become my way of slowing down and really paying attention to a place.
 
-			When I'm not doing any of that, I'm usually deep in some personal tech project at home — whether that's tinkering with a self-hosted server setup or finding a better way to organize my digital life. It's the same itch that drew me to systems work professionally, just pointed in a different direction.
-		</td>
-	</tr>
-</table>
-
-
-
-## Sandeep Erra
-
-## Sindu Challa
+When I'm not doing any of that, I'm usually deep in some personal tech project at home — whether that's tinkering with a self-hosted server setup or finding a better way to organize my digital life. It's the same itch that drew me to systems work professionally, just pointed in a different direction.
+:::
+:::

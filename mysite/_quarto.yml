@@ -2,23 +2,30 @@ project:
   type: website
 
 website:
-  title: "taara.io"
+  title: "Taara"
+  favicon: resources/site_logos/1x/Asset 2-8.png
   navbar:
+    logo: resources/site_logos/SVG/Asset 2.svg
+    logo-alt: "Taara"
     left:
       - href: index.qmd
         text: Home
       - href: ourteam.qmd
-        text: Our Team
+        text: About
       - href: contactus.qmd
-        text: Contact Us
+        text: Contact
+  page-footer:
+    left: "© 2025 Taara"
+    center: 
+      - text: "hello@taara.io"
+        href: "mailto:hello@taara.io"
+    right:
+      - text: "LinkedIn"
+        href: "https://linkedin.com/company/taara-io"
 
 format:
   html:
     theme:
       - cosmo
-      - brand
     css: styles.css
-    toc: true
-
-
-
+    toc: false

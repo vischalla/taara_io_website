@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Taara"
+  search: false
   favicon: resources/site_logos/1x/Asset 2-8.png
   navbar:
     logo: resources/site_logos/SVG/Asset 2.svg
@@ -25,6 +26,7 @@ website:
 
 format:
   html:
+    search: false
     theme:
       - cosmo
     css: styles.css

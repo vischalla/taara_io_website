@@ -1,0 +1,80 @@
+---
+title: "Do you lead an organization striving to mobilize communities and drive meaningful action on important causes?"
+---
+
+We help dedicated teams like yours transform their vision into powerful, sustainable impact. Leveraging a unique blend of data expertise, a deep understanding of effective community engagement, and a strong background in engineering robust systems, we specialize in crafting intelligent solutions. From optimizing your information flows to designing resilient operational frameworks, We're here to ensure your efforts are amplified and your goals are within reach. Let's build the infrastructure for lasting change, together.
+
+<!-- 
+https://niniaazzopardi.com/
+
+I am an independent, hands-on, marketing consultant and digital marketing strategist, based in Malta. Through the years I have worked for some of the largest global brands as a consultant, client-side, and within media agencies.
+
+My goal is to be an extension of your team, challenge assumptions, bring you the knowledge needed to achieve your goals, and build a digital marketing strategy that's right for your business. -->
+
+<!-- At Bows & Arrows Inc. we aim to provide a service that:  
+Understand respectful and proper protocol
+Adheres to a professional set of values in dealing with any and all organizations, companies and governments
+Benefits the Dene community and its members -->
+
+# Our Services
+<!-- What can we provde -->
+
+<!-- step down to just four or five categores -->
+
+<!-- 
+research and discovery
+project management
+consultancy 
+
+just add brief bullet points on what that entails
+-->
+
+* Project Management
+* Consulting
+* Data and Tech Trainings & Workshops
+* Data Architecture and Modeling
+* AI Policy Buildout and Implementation
+* CRM/Software Implementation and Configuration
+* Data Integration and ETL Development
+* Reporting and Dashboard Development
+* Data Quality Assessment and Remediation
+* Workflow Automation
+* Vendor Evaluation and Selection
+* Change Management Support
+* Data Cleanup and Formatting
+
+# Our Previous Partners
+
+* The Movement Cooperative
+* People's Action
+* Colorado People's Action
+* ONE People's Campaign
+* The People's Lobby
+* Maine People's Alliance
+* Neighbor to Neighbor Action Fund
+* Michigan United
+* TakeAction Minnesota
+* Citizen Action New York
+* Voices of Community Activists & Leaders (VOCAL) Action
+* Firelands WA
+* Citizen Action of Wisconsin
+* America Votes
+* MN Voices
+* Minnesota Youth Collective
+* Ilhan for Congress
+
+# Tech We Are Experts In
+
+* NGP VAN
+* EveryAction
+* ActionNetwork
+* ActionBuilder
+* ActionKit
+* Mobilize
+* CallHub
+* ScaleToWin
+* SQL Databases: BigQuery, Redshift, Snowflake, Azure
+* Automation: Zapier, n8n
+
+
+<!-- Build out footer, connection to LinkedIn-->

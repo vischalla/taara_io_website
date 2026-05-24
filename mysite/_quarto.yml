@@ -18,11 +18,11 @@ website:
   page-footer:
     left: "© 2025 Taara"
     center: 
-      - text: "hello@taara.io"
-        href: "mailto:hello@taara.io"
-    right:
-      - text: "LinkedIn"
-        href: "https://linkedin.com/company/taara-io"
+      - text: "vchalla@taara.io"
+        href: "mailto:vchalla@taara.io"
+    # right:
+    #   - text: "LinkedIn"
+    #     href: "https://linkedin.com/company/taara-io"
 
 format:
   html:

@@ -9,8 +9,8 @@ We'd love to hear about your organization and explore how we can help.
 Reach out and we'll get back to you within a day or two.
 
 ::: {.contact-links}
-[Email Us](mailto:hello@taara.io){.btn-primary-hero .btn-lg}
-[LinkedIn](https://linkedin.com/company/taara-io){.btn-outline-hero .btn-lg}
+[Email Us](mailto:vchalla@taara.io){.btn-primary-hero .btn-lg}
+<!-- [LinkedIn](https://linkedin.com/company/taara-io){.btn-outline-hero .btn-lg} -->
 :::
 
 :::
